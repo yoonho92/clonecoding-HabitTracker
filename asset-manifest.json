@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/clonecoding-HabitTracker/static/css/main.3443bccd.css",
+    "main.js": "/clonecoding-HabitTracker/static/js/main.8a79e3ff.js",
+    "index.html": "/clonecoding-HabitTracker/index.html",
+    "main.3443bccd.css.map": "/clonecoding-HabitTracker/static/css/main.3443bccd.css.map",
+    "main.8a79e3ff.js.map": "/clonecoding-HabitTracker/static/js/main.8a79e3ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3443bccd.css",
+    "static/js/main.8a79e3ff.js"
+  ]
+}
